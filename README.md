@@ -14,7 +14,7 @@ A great UIView addition that makes any view or component derived from a UIView w
     
 ## Installation
 
-Available in [Cocoa Pods](http://cocoapods.org/?q=UIView+Wiggle)
+Available in [CocoaPods](http://cocoapods.org/?q=UIView+Wiggle)
 ```ruby
 pod 'UIView+Wiggle'
 ```
